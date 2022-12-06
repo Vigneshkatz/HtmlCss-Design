@@ -1,2 +1,2 @@
 # HtmlCss-Design
-# Basic html-css template practice
+Basic html-css template practice
